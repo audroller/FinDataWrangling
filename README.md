@@ -1,2 +1,2 @@
-# FinDataWrangling
-From my Algorithms Class taken in October 2023
+# Financial Data Wrangling
+Completed in my Introduction to Data Science Course (DSCI 125) in Fall 2022.  
